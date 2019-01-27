@@ -1,0 +1,14 @@
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\bin\Debug\netcoreapp2.1\PokerWebApi.deps.json
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\bin\Debug\netcoreapp2.1\PokerWebApi.runtimeconfig.json
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\bin\Debug\netcoreapp2.1\PokerWebApi.runtimeconfig.dev.json
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\bin\Debug\netcoreapp2.1\PokerWebApi.dll
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\obj\Debug\netcoreapp2.1\PokerWebApi.csprojAssemblyReference.cache
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\obj\Debug\netcoreapp2.1\PokerWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\obj\Debug\netcoreapp2.1\PokerWebApi.RazorAssemblyInfo.cache
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\obj\Debug\netcoreapp2.1\PokerWebApi.RazorAssemblyInfo.cs
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\obj\Debug\netcoreapp2.1\PokerWebApi.AssemblyInfoInputs.cache
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\obj\Debug\netcoreapp2.1\PokerWebApi.AssemblyInfo.cs
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\obj\Debug\netcoreapp2.1\PokerWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\bin\Debug\netcoreapp2.1\PokerWebApi.pdb
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\obj\Debug\netcoreapp2.1\PokerWebApi.dll
+C:\Users\Jore\Desktop\app poker\PokerWebApi\PokerWebApi\obj\Debug\netcoreapp2.1\PokerWebApi.pdb

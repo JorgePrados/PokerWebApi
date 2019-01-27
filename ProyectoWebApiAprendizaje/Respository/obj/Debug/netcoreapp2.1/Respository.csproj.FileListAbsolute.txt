@@ -1,0 +1,11 @@
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\bin\Debug\netcoreapp2.1\Respository.deps.json
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\bin\Debug\netcoreapp2.1\Respository.runtimeconfig.json
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\bin\Debug\netcoreapp2.1\Respository.runtimeconfig.dev.json
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\bin\Debug\netcoreapp2.1\Respository.dll
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\obj\Debug\netcoreapp2.1\Respository.csproj.CoreCompileInputs.cache
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\obj\Debug\netcoreapp2.1\Respository.AssemblyInfoInputs.cache
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\obj\Debug\netcoreapp2.1\Respository.AssemblyInfo.cs
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\bin\Debug\netcoreapp2.1\Respository.pdb
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\obj\Debug\netcoreapp2.1\Respository.csprojAssemblyReference.cache
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\obj\Debug\netcoreapp2.1\Respository.dll
+C:\Users\Jore\Desktop\Proyectos\Net Core\Caribage\ProyectoWebApiAprendizaje\Respository\obj\Debug\netcoreapp2.1\Respository.pdb
