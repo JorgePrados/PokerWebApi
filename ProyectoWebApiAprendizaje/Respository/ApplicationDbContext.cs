@@ -15,5 +15,9 @@ namespace Repository
         }
 
         public DbSet<Cliente> Clientes { get;set; }
+        public DbSet<Carta> Cartas { get; set; }
+        public DbSet<Jugada> Jugadas { get; set; }
+        public DbSet<ManoInicial> ManosIniciales { get; set; }
+
     }
 }
