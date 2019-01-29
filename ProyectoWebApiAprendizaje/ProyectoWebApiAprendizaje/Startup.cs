@@ -38,6 +38,10 @@ namespace ProyectoWebApiAprendizaje
             {
                 c.SwaggerDoc("v1", new Info { Title = "My API", Version = "v1" });
             });
+            services.AddScoped<ICartaRepository, CartaRepository>();
+            services.AddScoped<IJugadaRepository, JugadaRepository>();
+            services.AddScoped<IManoInicialRepository, ManoInicialRepository>();
+            services.AddScoped<IPartidaRepository, PartidaRepository>();
             services.AddScoped<IRepositoryCliente, RepositoryCliente>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
